@@ -13,6 +13,6 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 - The title of the card uses a 16px font. :heavy_check_mark:
 - There are 8px between the title text and the edge of the title section. :heavy_check_mark:
 - The content section has 16px space on the top and bottom, and 8px on either side. :heavy_check_mark:
-- Everything inside the `.button-container` section is centered, and there is 8px padding.
-- The Big Button is centered on its own line.
-- The Big Button has 24px space on the sides, and 8px on top and bottom.
+- Everything inside the `.button-container` section is centered, and there is 8px padding. :heavy_check_mark:
+- The Big Button is centered on its own line. :heavy_check_mark:
+- The Big Button has 24px space on the sides, and 8px on top and bottom. :heavy_check_mark:
