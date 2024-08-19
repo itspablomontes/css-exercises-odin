@@ -4,5 +4,14 @@
 
 }
 #two{
-   font-size: 36px; 
+   font-size: 36px;
+   color: blue;
+}
+#three{
+    font-size: 36px;
+}
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
